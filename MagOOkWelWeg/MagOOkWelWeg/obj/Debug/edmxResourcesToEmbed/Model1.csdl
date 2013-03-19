@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="Model1" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="Model1Container" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="PersonSet" EntityType="Model1.Person" />
+    <EntitySet Name="CarSet" EntityType="Model1.Car" />
+    <AssociationSet Name="PersonCar" Association="Model1.PersonCar">
+      <End Role="Person" EntitySet="PersonSet" />
+      <End Role="Car" EntitySet="CarSet" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Person">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="Name" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Type="String" Name="PreName" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Type="Int16" Name="Age" Nullable="false" />
+    <NavigationProperty Name="Car" Relationship="Model1.PersonCar" FromRole="Person" ToRole="Car" />
+  </EntityType>
+  <EntityType Name="Car">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="Brand" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Type="String" Name="Type" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Type="Int16" Name="MaxSpeed" Nullable="false" />
+    <NavigationProperty Name="Person" Relationship="Model1.PersonCar" FromRole="Car" ToRole="Person" />
+  </EntityType>
+  <Association Name="PersonCar">
+    <End Type="Model1.Person" Role="Person" Multiplicity="1" />
+    <End Type="Model1.Car" Role="Car" Multiplicity="*" />
+  </Association>
+</Schema>

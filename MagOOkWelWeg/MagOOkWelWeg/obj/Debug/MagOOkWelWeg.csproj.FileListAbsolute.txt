@@ -1,0 +1,17 @@
+c:\users\tiboh\documents\visual studio 2012\Projects\MagOOkWelWeg\MagOOkWelWeg\bin\Debug\MagOOkWelWeg.exe.config
+C:\Users\tiboh\documents\visual studio 2012\Projects\MagOOkWelWeg\MagOOkWelWeg\bin\Debug\MagOOkWelWeg.exe
+C:\Users\tiboh\documents\visual studio 2012\Projects\MagOOkWelWeg\MagOOkWelWeg\bin\Debug\MagOOkWelWeg.pdb
+C:\Users\tiboh\documents\visual studio 2012\Projects\MagOOkWelWeg\MagOOkWelWeg\bin\Debug\EntityFramework.dll
+C:\Users\tiboh\documents\visual studio 2012\Projects\MagOOkWelWeg\MagOOkWelWeg\bin\Debug\EntityFramework.xml
+C:\Users\tiboh\documents\visual studio 2012\Projects\MagOOkWelWeg\MagOOkWelWeg\obj\Debug\MainWindow.baml
+C:\Users\tiboh\documents\visual studio 2012\Projects\MagOOkWelWeg\MagOOkWelWeg\obj\Debug\MainWindow.g.cs
+C:\Users\tiboh\documents\visual studio 2012\Projects\MagOOkWelWeg\MagOOkWelWeg\obj\Debug\App.g.cs
+C:\Users\tiboh\documents\visual studio 2012\Projects\MagOOkWelWeg\MagOOkWelWeg\obj\Debug\MagOOkWelWeg_Content.g.cs
+C:\Users\tiboh\documents\visual studio 2012\Projects\MagOOkWelWeg\MagOOkWelWeg\obj\Debug\MagOOkWelWeg_MarkupCompile.cache
+C:\Users\tiboh\documents\visual studio 2012\Projects\MagOOkWelWeg\MagOOkWelWeg\obj\Debug\MagOOkWelWeg.g.resources
+C:\Users\tiboh\documents\visual studio 2012\Projects\MagOOkWelWeg\MagOOkWelWeg\obj\Debug\MagOOkWelWeg.Properties.Resources.resources
+C:\Users\tiboh\documents\visual studio 2012\Projects\MagOOkWelWeg\MagOOkWelWeg\obj\Debug\MagOOkWelWeg.csproj.GenerateResource.Cache
+C:\Users\tiboh\documents\visual studio 2012\Projects\MagOOkWelWeg\MagOOkWelWeg\obj\Debug\MagOOkWelWeg.exe
+C:\Users\tiboh\documents\visual studio 2012\Projects\MagOOkWelWeg\MagOOkWelWeg\obj\Debug\MagOOkWelWeg.pdb
+C:\Users\tiboh\Documents\Visual Studio 2012\Projects\MagOOkWelWeg\MagOOkWelWeg\obj\Debug\MagOOkWelWeg.csprojResolveAssemblyReference.cache
+C:\Users\tiboh\Documents\Visual Studio 2012\Projects\MagOOkWelWeg\MagOOkWelWeg\obj\Debug\MagOOkWelWeg_MarkupCompile.lref

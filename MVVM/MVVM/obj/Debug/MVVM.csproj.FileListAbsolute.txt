@@ -1,0 +1,13 @@
+c:\users\tiboh\documents\visual studio 2012\Projects\MVVM\MVVM\bin\Debug\MVVM.exe.config
+c:\users\tiboh\documents\visual studio 2012\Projects\MVVM\MVVM\bin\Debug\MVVM.exe
+c:\users\tiboh\documents\visual studio 2012\Projects\MVVM\MVVM\bin\Debug\MVVM.pdb
+c:\users\tiboh\documents\visual studio 2012\Projects\MVVM\MVVM\obj\Debug\App.g.cs
+c:\users\tiboh\documents\visual studio 2012\Projects\MVVM\MVVM\obj\Debug\MVVM_MarkupCompile.cache
+c:\users\tiboh\documents\visual studio 2012\Projects\MVVM\MVVM\obj\Debug\MVVM.g.resources
+c:\users\tiboh\documents\visual studio 2012\Projects\MVVM\MVVM\obj\Debug\MVVM.Properties.Resources.resources
+c:\users\tiboh\documents\visual studio 2012\Projects\MVVM\MVVM\obj\Debug\MVVM.csproj.GenerateResource.Cache
+c:\users\tiboh\documents\visual studio 2012\Projects\MVVM\MVVM\obj\Debug\MVVM.exe
+c:\users\tiboh\documents\visual studio 2012\Projects\MVVM\MVVM\obj\Debug\MVVM.pdb
+c:\users\tiboh\documents\visual studio 2012\Projects\MVVM\MVVM\obj\Debug\Window1.baml
+c:\users\tiboh\documents\visual studio 2012\Projects\MVVM\MVVM\obj\Debug\Window1.g.cs
+c:\users\tiboh\documents\visual studio 2012\Projects\MVVM\MVVM\obj\Debug\MVVM.csprojResolveAssemblyReference.cache
