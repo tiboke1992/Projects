@@ -44,7 +44,7 @@ namespace MVVM.ViewModels
          */
         public void SaveChanges()
         {
-            MessageBox.Show(string.Format("{0} has been updated", _Customer.Name));
+            MessageBox.Show(string.Format("{0} has been updated", _Customer.Name), "Operation sucessfull");
         }
 
 
